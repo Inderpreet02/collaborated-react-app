@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### For refrence we are cloning this site https://www.tanishq.co.in/
+
 Jagrit Try
 
 In the project directory, you can run:
