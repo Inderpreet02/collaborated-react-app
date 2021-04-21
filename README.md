@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### For refrence we are cloning this site https://www.tanishq.co.in/
 
+
+### Side ss
+
+![image](https://user-images.githubusercontent.com/71146769/115497241-e9669c00-a288-11eb-9bdb-3b288073d0b8.png)
+
+
 Jagrit Try
 
 In the project directory, you can run:
