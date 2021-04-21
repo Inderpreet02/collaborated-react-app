@@ -10,6 +10,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://user-images.githubusercontent.com/71146769/115497241-e9669c00-a288-11eb-9bdb-3b288073d0b8.png)
 
 
+![image](https://user-images.githubusercontent.com/71146769/115497360-22067580-a289-11eb-99ee-8b5a7d520b30.png)
+
+
+![image](https://user-images.githubusercontent.com/71146769/115497388-30549180-a289-11eb-8a3a-f351b0e0e402.png)
+
+
+![image](https://user-images.githubusercontent.com/71146769/115497437-482c1580-a289-11eb-99b9-228ab879c899.png)
+
+
 Jagrit Try
 
 In the project directory, you can run:
