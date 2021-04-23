@@ -1,0 +1,56 @@
+.exclusive{
+    border-top: 1px solid lightgrey;
+    max-width: 1200px;
+    width: 100%;
+    margin: 50px auto;
+}
+
+.exclusive__container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 0 80px 0;
+}
+
+.exclusive > h1{
+    text-align: center;
+    margin: 50px 0 20px 0;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.exclusive__container > img{
+    width: 30%;
+}
+
+.shop__byGender{
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+}
+
+.shop__byGender > h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 30px;
+    margin: 30px 0 0 0;
+}
+
+.shop_byGenderContainer{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.shop__byGenderCard{
+    padding: 20px;    
+}
+
+.shop__byGenderCard > img{
+    width: 100%;
+    object-fit: contain;
+}
+
+.shop__byGenderCard > h5{
+    text-align: center;
+    margin: 0;
+}
