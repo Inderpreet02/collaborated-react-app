@@ -8,13 +8,13 @@
     font-size: 14px;
     font-weight: 500;
     padding: 20px;
-    border-bottom: 1px solid #333;
-/*     
+    /*     
     background-image: linear-gradient(rgb(185, 241, 241),white); */
-
+    
 }
 
 .header{
+    border-bottom: 1px solid #333;
     position:sticky;
     top:0;
     background-color:#fff;
